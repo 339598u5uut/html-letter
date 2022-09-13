@@ -1,0 +1,12 @@
+{
+    "name": "htmlemail",
+    "version": "1.0.0",
+    "description": "HTML-письмо для компании Blanchard.",
+    "main": "index.js",
+    "homepage": "https://339598u5uut.github.io/html-letter/",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
