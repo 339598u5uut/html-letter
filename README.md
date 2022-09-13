@@ -25,16 +25,7 @@ HTML-письмо для компании Blanchard.
 5.	Запуск при помощи Live Server.
 
 
-
-## Тестирование бизнес-логики приложения: 
-   npm test
-
-
-## Функциональное тестирование с использованием Cypress:
-npm run cypress
-
-
-## Перейти в проект: [GitHubPages](https://339598u5uut.github.io/REACT/)
+## Посмотреть письмо: [GitHubPages](https://339598u5uut.github.io/html-letter/)
 
 
 ***  
